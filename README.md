@@ -88,6 +88,18 @@ Confusion Matrix
 Precision
 Recall
 F1 Score
+🏆 Conclusion
+
+This project demonstrates how unsupervised learning techniques can be applied to fraud detection problems where labelled data is unavailable.
+
+Among the implemented approaches, Isolation Forest outperformed K-Means Clustering, making it the recommended solution for real-world fraud detection systems due to its ability to identify rare and unusual transaction patterns effectively.
+
+🚀 Future Improvements
+Hyperparameter tuning
+PCA for dimensionality reduction
+DBSCAN-based anomaly detection
+Real-time fraud detection pipeline
+Ensemble anomaly detection methods
 
 Key Findings
 Fraudulent transactions are extremely rare.
